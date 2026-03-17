@@ -25,12 +25,12 @@ This repository contains high-resolution flow field measurements obtained using 
  ┣ 📂 Example/               # Machine learning demonstration
  ┃ ┣ 📂 dataset/             # Pre-processed .numpy data files for training
  ┃ ┗ 📜 TBNN.py              # Python script to train the Tensor Basis Neural Network
- ┣ 📂 RANS/                  # Computational Fluid Dynamics (CFD) results
+ ┣ 📂 RANS/                  # CFD results
  ┃ ┗ 📜 ...                  # OpenFOAM simulation results for the first 12 cases
  ┣ 📂 SSPIV/                 # Experimental SSPIV results
  ┃ ┣ 📜 Case_01.dat          # Contains spatial coordinates, mean flows, and statistics
  ┃ ┣ 📜 ...                  # Total of 36 .dat files for all experimental cases
  ┃ ┗ 📜 Case_36.dat
  ┣ 🖼️ Experimental Setup.png # Diagram of the experimental setup
- ┣ 📊 Index.xlsx             # Detailed working conditions and parameters for the 36 cases
+ ┣ 📊 Index.xlsx             # Detailed hydraulic conditions and parameters for the 36 cases
  ┗ 📜 README.md              # This documentation file
